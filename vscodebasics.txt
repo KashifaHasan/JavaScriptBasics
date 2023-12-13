@@ -1,0 +1,2 @@
+1. To print code from VS have an extension named : print
+2. 
